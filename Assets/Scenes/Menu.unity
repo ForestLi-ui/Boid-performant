@@ -11322,7 +11322,7 @@ MonoBehaviour:
   obstacleAvoidanceScaleDefault: 10
   maximumViewDistanceDefault: 50
   maximumViewAngleDefault: 240
-  targetDetectDistanceDefault: 100
+  targetDetectDistanceDefault: 50
   targetSpeedDefault: 30
   targetMaxAccelerationDefault: 30
   numObstaclesDefault: 10
