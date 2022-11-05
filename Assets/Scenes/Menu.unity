@@ -11318,7 +11318,7 @@ MonoBehaviour:
   alignmentScaleDefault: 0.5
   cohesionScaleDefault: 0.5
   SeparationScaleDefault: 0.5
-  targetScaleDefault: 2
+  targetScaleDefault: 1
   obstacleAvoidanceScaleDefault: 10
   maximumViewDistanceDefault: 50
   maximumViewAngleDefault: 240
